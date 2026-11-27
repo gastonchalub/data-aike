@@ -1,0 +1,15 @@
+indicador,periodo,valor,unidad,fuente
+VAB real,2004-2024,7.2,porcentaje,CEPAL
+VAB real,2015-2024,-22.6,porcentaje,CEPAL
+Petroleo gas carbon,2004-2024,-51.4,porcentaje,CEPAL
+Mineria metalifera y canteras,2004-2024,416.2,porcentaje,CEPAL
+Hoteleria y gastronomia,2004-2024,140,porcentaje,CEPAL
+Pesca,2004-2024,109.4,porcentaje,CEPAL
+Empresas privadas,2004-2024,43.7,porcentaje,OEDE
+Empleo privado registrado,1T2024-1T2026,-8637,puestos,OEDE
+Remuneracion real estimada,2017-2025,-15.5,porcentaje,OEDE e INDEC
+Exportaciones,2025,2953,millones USD FOB,INDEC
+Regalias sobre ingresos,2005,34.71,porcentaje,Ministerio de Economia
+Regalias sobre ingresos,2025,17.33,porcentaje,Ministerio de Economia
+Inversion real directa sobre gasto,2005,19.99,porcentaje,Ministerio de Economia
+Inversion real directa sobre gasto,2025,0.18,porcentaje,Ministerio de Economia
