@@ -4,6 +4,8 @@ Regional data storytelling initiative focused on Santa Cruz, Patagonia, Argentin
 
 ## Stories
 
+- [¿Cómo fueron los últimos 22 años de Santa Cruz?](stories/santa-cruz-2004-2026/): historical economic, productive, labor and fiscal analysis.
+
 - [Santa Cruz demographic analysis](https://github.com/gastonchalub/santa-cruz-demographic-analysis): departmental population projections and selected age-group comparisons.
 - [Santa Cruz livestock forecast](https://github.com/gastonchalub/santa-cruz-livestock-forecast): historical sheep inventories and exploratory time-series forecasting.
 
